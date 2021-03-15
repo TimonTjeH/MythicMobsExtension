@@ -11,7 +11,7 @@ public class Messages {
 
     private File f;
     private FileConfiguration config;
-    private Main m;
+    private Main m;//
 
     public Messages(Main m) {
 
