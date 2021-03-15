@@ -1,6 +1,6 @@
 package Main;
 
-import MythicMobsSpawnerCommand.Files.Messages;
+import Files.Messages;
 import MythicMobsSpawnerCommand.SpawnerCommand;
 import io.lumine.xikage.mythicmobs.MythicMobs;
 import org.bukkit.ChatColor;

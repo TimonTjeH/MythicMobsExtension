@@ -1,4 +1,4 @@
-package MythicMobsSpawnerCommand.Files;
+package Files;
 
 import Main.Main;
 import org.bukkit.configuration.file.FileConfiguration;
