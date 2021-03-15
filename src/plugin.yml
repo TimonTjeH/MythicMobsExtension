@@ -1,0 +1,17 @@
+name: MythicMobsExtension
+version: 1.0
+main: Main.Main
+depend:
+  - MythicMobs
+
+commands:
+  spawner:
+    description: Krijg de cooldown tijd van de spawner
+    aliases:
+      - s
+  MythicMobsExtension:
+    description: CoreCommand
+    aliases:
+      - mme
+
+
